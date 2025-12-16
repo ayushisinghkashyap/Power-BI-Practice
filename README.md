@@ -14,3 +14,8 @@ Designed and utilized a variety of customized visualizations, including bar char
 The dashboard can be viewed by clicking the link below and opening it in Power BI.
 
 https://noidainstituteofengtech-my.sharepoint.com/:u:/g/personal/0221csds183_niet_co_in/IQDg_ExDJhGxRqeK4FhnPacBAaAtlDuTTGx8_25IQEeCqUY?e=ocDT3x
+
+Preview :
+
+<img width="1047" height="595" alt="image" src="https://github.com/user-attachments/assets/857ab121-4eec-4115-b309-d1f775db09e3" />
+
